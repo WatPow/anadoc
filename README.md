@@ -11,7 +11,7 @@
 - Une faille de type Remote Code Execution (RCE) permettant une élévation de privilèges jusqu'au niveau NT AUTHORITY\SYSTEM
 - Impact majeur sur la sécurité des systèmes critiques en environnement isolé
 
-![Schéma d'un Active Directory avec le rôle Print Spooler activé]()
+![Schéma d'un Active Directory avec le rôle Print Spooler activé](https://github.com/WatPow/anadoc/blob/d350c67385dfd9239a902249c603926d8f87d4e2/images/flowchart.png)
 
 ## Slide 2 : Exploitation – Principe de l'attaque
 
